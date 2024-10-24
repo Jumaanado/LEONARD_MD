@@ -1,4 +1,4 @@
-   ###  LEONARD MD V5 WA BOT
+   ###  LEONARD MD WA BOT
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
