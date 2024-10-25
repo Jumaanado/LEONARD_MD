@@ -2,9 +2,9 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "🎉", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/boniphace478/BONIPHACE-MD';
-  const img = 'https://files.catbox.moe/b8dokx.jpeg';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "💥", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/kingmakota/LEONARD_MD';
+  const img = 'https://files.catbox.moe/awcix5.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -22,18 +22,18 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "🎉", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *Boniphace_md.*\n support our channel *by*,  https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
+this is* *Leonard_md.*\n support our channel *by*,  https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
 🧧 *FORKS:* ${repoInfo.forks}
 📅 *RELEASE DATE:* ${releaseDate}
 🕐 *UPDATE ON:* ${repoInfo.lastUpdate}
-👨‍💻 *OWNER:* *Boniphace Tech*
-💞 *THEME:* *BONIPHACE*
+👨‍💻 *OWNER:* *Leonard Tech*
+💞 *THEME:* *LEONARD*
 🥰*ONLY GOD CAN JUDGE ME!👑*
 __________________________________
-            *Made With Boniphace Tech*`;
+            *Made With Leonard Tech*`;
 
       await zk.sendMessage(dest, { image: { url: img }, caption: gitdata });
     } else {

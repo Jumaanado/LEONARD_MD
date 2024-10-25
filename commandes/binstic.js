@@ -34,7 +34,7 @@ zokou({
     const isAnimated = stickerSet.is_animated || stickerSet.is_video;
     const stickerType = isAnimated ? "animated sticker" : "not animated sticker";
 
-    const message = `Boniphace-stickers-dl\n\n*Name:* ${stickerSet.name}\n*Type:* ${stickerType}\n*Length:* ${stickerSet.stickers.length}\n\nDownloading...`;
+    const message = `Leonard-stickers-dl\n\n*Name:* ${stickerSet.name}\n*Type:* ${stickerType}\n*Length:* ${stickerSet.stickers.length}\n\nDownloading...`;
     await reply(message);
 
     for (const sticker of stickerSet.stickers) {
@@ -49,7 +49,7 @@ zokou({
 
       const stickerObject = new Sticker(fileBufferResponse.data, {
         pack: messageAuthor,
-        author: "BONIPHACE-MD",
+        author: "LEONARD-MD",
         type: StickerTypes.FULL,
         categories: ['🤩', '🎉'],
         id: "12345",

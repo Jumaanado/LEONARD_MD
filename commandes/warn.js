@@ -33,7 +33,7 @@ if(verifAdmin || superUser) {
     repondre("Warn count is reset for this stupidy")} else ( repondre('reply to a user by typing  .warn ou .warn reset'))
    
 }  else {
-    repondre('you are not an admin please promote BONIPHACE-MD to warn stupidy people')
+    repondre('you are not an admin please promote LEONARD-MD to warn stupidy people')
 }
  
    });

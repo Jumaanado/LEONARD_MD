@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14`) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join BONIPHACE MD Chatroom* https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
+                 await repondre(`*Tap Here To Join LEONARD MD Chatroom* https://chat.whatsapp.com/KrseXOOYu2nKOkht0qonhY`) 
 
    
 
@@ -109,7 +109,7 @@ zokou({ nomCom: 'update',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Boniphace md is running on its latest vision_*`) 
+                 await repondre(`*_Leonard md is running on its latest vision_*`) 
 
    
 
@@ -129,7 +129,7 @@ zokou({ nomCom: 'vision',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Boniphace md_*`) 
+                 await repondre(`*_Leonard md_*`) 
 
    
 
@@ -139,7 +139,7 @@ zokou({ nomCom: 'vision',
 
 
   
-zokou({ nomCom: 'boniphace',
+zokou({ nomCom: 'leonard',
     desc: 'To check runtime',
     Categorie: 'My Contact',
     reaction: '♻️', 
@@ -188,8 +188,8 @@ zokou({ nomCom: 'hack2',
     "SENDING LOG DOCUMENTS...",
     "SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED",
-    "POWERED BY BONIPHACE MD",
-    "By Boniphace Tech`) 
+    "POWERED BY LEONARD MD",
+    "By Leonard Tech`) 
 
    
 
@@ -212,19 +212,19 @@ zokou({ nomCom: 'problem',
     const { ms, arg, repondre } = commandeOptions;
 
                  await repondre(`*_┏━━━━━━━━━━━━━━
-┃BONIPHACE-MD 🎉🎉🎉 
+┃LEONARD-MD 🎉🎉🎉 
 | NEVER 
 ┃DIE🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 BONIPHACE TECH 𖥘
+❶ || Creator = 𖥘 LEONARD TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/boniphaceTech 👈
+Wanna talk to me?👉 https://t.me/leonardTech 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 BONIPHACE TECH_*`) 
+©*2024-2099 LEONARD TECH_*`) 
 
    
 
