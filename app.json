@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE-MD",
-  "description":"Best whatsapp bot developed by Boniphace Tech",
+  "name":"LEONARD_MD",
+  "description":"Best whatsapp bot developed by Leonard Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/3vzjsl.jpeg",
-  "repository":"https://github.com/boniphace478/BONIPHACE-XMD-1",
+  "logo":"https://files.catbox.moe/awcix5.jpg",
+  "repository":"https://github.com/kingmakota/LEONARD_MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-MD",
+      "value":"LEONARD_MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/b8dokx.jpeg",
+      "value":"https://files.catbox.moe/awcix5.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Boniphace"
+    "value": "Leonard"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255655192476"
   },
     "WARN_COUNT":
   {
